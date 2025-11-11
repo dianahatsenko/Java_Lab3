@@ -1,4 +1,4 @@
-
+//mark.java
 package ua.onlinecourses.model;
 
 public enum Mark {
